@@ -97,6 +97,15 @@ body{
     color: #333;
 }
 
+#footer h2 {
+    text-align: right;
+    font-size: 0.3rem;
+    padding: 0.2rem;
+    font-weight: 50;
+    color: #fff;
+    margin-top: 50px;
+  }
+
 /* Media Queries */
 @media (max-width: 768px) {
     body {
